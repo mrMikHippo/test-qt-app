@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=TestQtApp
+Comment=Blablabla
+Icon=TestQtApp
+Exec=TestQtApp
+Type=Application
+Categories=Network;
